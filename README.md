@@ -1,0 +1,1 @@
+-=This repo is my home work for course "Netology - Python for data analysis" (group PYDA-8A), march-june 2020 =-
